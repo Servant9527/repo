@@ -1,0 +1,15 @@
+Package: com.parrotgeek.globalize
+Name: Globalize
+Version: 0.3.2
+Architecture: iphoneos-arm64
+Description: Disables almost all region differences/restrictions on iOS devices. Please run ldrestart after installation.
+Maintainer: parrotgeek1
+Author: parrotgeek1
+Section: Tweaks
+Depends: mobilesubstrate, firmware (>= 9)
+Filename: debs/com.parrotgeek.globalize_0.3.2_iphoneos-arm64.deb
+Size: 5834
+MD5sum: 761d8a7d0dc310886e7d189137118bc9
+SHA256: e362ca67b509793ebff2cd1642bbe7baf59c9bf5ecef9afd5937515dc5901a3d
+Installed-Size: 440
+
